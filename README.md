@@ -1,4 +1,4 @@
-![logo](https://github.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/blob/main/ban.png)
+![logo](https://github.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/blob/main/Screenshot%202025-05-17%20151222.png)
 <h1 align="center">Hi 👋, I'm Shibagni Bhattacharjee</h1>
 <h3 align="center">Tech Enthusiast | AI-ML Explorer | IoT Innovator</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
