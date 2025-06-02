@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on IoT and web Development [OxiTech](https://www.linkedin.com/posts/shibagni-bhattacharjee-07a944283_healthcareinnovation-emergencyventilator-activity-7243226423144939521-IpSP?utm_source=share&utm_medium=member_android&rcm=ACoAAEUEO14B8Pds_A-EbnhpJk6hTDPQBFNHBuQ)
 
-- 🌱 I’m currently learning **B.tech in Comouter Science Engineering**
+- 🌱 I’m currently learning **B.tech in Computer Science Engineering**
 
 - I have published research paper in IEEE [Real Time Gas Leak Detection with IoT: A Gateway to Safer and Smarter Homes](https://ieeexplore.ieee.org/document/10846388)
 
