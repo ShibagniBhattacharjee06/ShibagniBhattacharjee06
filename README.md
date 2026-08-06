@@ -6,7 +6,8 @@
      (e.g. an image hosted in this same repo, like:
      https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/main/assets/banner.png)
      ============================================================ -->
-<img src="https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/main/Shibagni BHattacharjee banner.png" alt="Shibagni Bhattacharjee banner" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/main/Shibagni%20Bhattacharjee%20banner.png" alt="Shibagni Bhattacharjee banner" width="100%"/>
 
 <br/>
 
