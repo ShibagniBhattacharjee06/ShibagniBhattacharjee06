@@ -1,221 +1,456 @@
-<!-- TOP BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/main/banner.png" alt="Shibagni Bhattacharjee Banner" width="100%" style="border-radius: 12px;" />
+
+<!-- ============================================================
+     HERO BANNER
+     Replace the src below with your own banner image link
+     (e.g. an image hosted in this same repo, like:
+     https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/main/assets/banner.png)
+     ============================================================ -->
+<img src="REPLACE_WITH_YOUR_HERO_BANNER_URL" alt="Shibagni Bhattacharjee banner" width="100%"/>
+
+<br/>
+
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://shibagni.in">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=780&height=70&lines=Hi%2C+I'm+Shibagni+Bhattacharjee;Software+Engineer+%7C+AI+%2B+Full-Stack+Builder;Final-Year+CSE+Student+%7C+Top+2%25+of+Department;6x+International+Hackathon+Winner;Building+at+the+intersection+of+AI+%26+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN__TO__SDE__ROLES-9ece6a?style=for-the-badge&labelColor=1a1b26&color=1a1b26&logo=target&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-7aa2f7?style=for-the-badge&labelColor=1a1b26&color=1a1b26&logo=googlemaps&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%C2%B7%20SYSTEM%20DESIGN%20%C2%B7%20LLMs-f7768e?style=for-the-badge&labelColor=1a1b26&color=1a1b26&logo=leetcode&logoColor=f7768e" />
+
 </div>
 
-<br />
+<br/>
 
-<!-- HEADER METRICS & SOCIAL BADGES -->
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="26"/>
+  &nbsp; ABOUT ME
+</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+whoami:
+  name: "Shibagni Bhattacharjee"
+  role: "Software Engineer · AI/ML + Full-Stack"
+  education: "B.Tech, Computer Science Engineering"
+  institute: "University of Engineering & Management, Jaipur"
+  graduation: "2027"
+  rank: "Top 2% of CSE department"
+  portfolio: "https://shibagni.in"
+  github: "ShibagniBhattacharjee06"
+
+current_focus:
+  - "Data Structures & Algorithms"
+  - "System Design (HLD / LLD)"
+  - "Large Language Models"
+
+fun_fact: "I ship polished products end-to-end - from
+           trained model to deployed, documented app."
+```
+
+</td>
+<td width="40%" valign="top">
+
+**Quick Facts**
+
+- 🎓 Final-year CSE student, graduating 2027
+- 🏆 6x international hackathon winner, including **Stanford-Microsoft** and **Harvard** competitions
+- 🧪 Co-author on multiple **IEEE / Springer** publications
+- 💼 Internships at **ICFAI University (R&D)**, **Infosys Springboard (AI/ML)**, **IBM SkillBuild (Full Stack)**
+- 🌐 Portfolio: **[shibagni.in](https://shibagni.in)**
+- 📡 Status: actively interviewing for **SDE / Software Engineering** roles
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Professional Summary
+
+Final-year Computer Science Engineering student who builds complete, production-shaped systems rather than isolated demos - spanning AI/ML pipelines, full-stack web platforms, and IoT-integrated tools. Comfortable owning a project from research and model training through deployment and documentation. Track record includes multiple award-winning hackathon builds, peer-reviewed research contributions, and hands-on industry internships across R&D, AI/ML, and full-stack engineering. Currently sharpening core CS fundamentals - DSA and system design - while exploring applied LLM engineering, and actively looking for Software Engineering / SDE opportunities where shipped work and strong fundamentals both matter.
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=rust" width="26"/>
+  &nbsp; CURRENT STATUS
+</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-12.3K+-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Repositories-40+-1f6feb?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Followers-1.1K+-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-600+-daaa3f?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Stars" />
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shibagni-bhattacharjee-07a944283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-  <a href="https://www.kaggle.com/shibagni" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28" /></a>
-  <a href="https://instagram.com/bhattsagshi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
-  <a href="https://www.codechef.com/users/bhatt_shibagni" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" /></a>
-  <a href="https://www.hackerrank.com/profile/bhattacharjees10" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" /></a>
-  <a href="https://leetcode.com/u/3MHs72JT3s/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/bhattacharjekl66" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="28" /></a>
+
+| | |
+|---|---|
+| 🎓 **Studying** | Final-year B.Tech CSE, graduating 2027 |
+| 🎯 **Looking for** | Software Engineering / SDE roles |
+| 📚 **Learning** | DSA, System Design & LLMs |
+| 🤝 **Open to** | Collaboration on AI, full-stack & research projects |
+| 💬 **Ask me about** | React/Node systems, computer vision, applied ML, IoT |
+
 </div>
 
-<br />
+<br/>
 
-<!-- ABOUT ME & CURRENT STATUS GRID -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🙋‍♀️ ABOUT ME</h3>
-      <p>Final-year <b>B.Tech CSE</b> student passionate about building intelligent systems that solve real-world problems. I love working at the intersection of <b>AI, Web, and IoT</b> to create impactful solutions.</p>
-      <ul>
-        <li>📡 I'm currently working on innovative AI & IoT solutions</li>
-        <li>🧠 Exploring LLMs, System Design & Distributed Systems</li>
-        <li>⚡ Building scalable web apps and smart IoT devices</li>
-        <li>🎯 Goal: To build technology that makes lives better</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 CURRENT STATUS</h3>
-      <ul>
-        <li>🎓 <b>Final-year</b>: B.Tech CSE Student</li>
-        <li>📚 <b>Currently learning</b>: DSA, System Design & LLMs</li>
-        <li>💼 <b>Looking for</b>: SDE / Software Engineering roles</li>
-        <li>🤝 <b>Open to Collaboration</b>: Let's build something amazing together!</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
 
-<br />
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" width="26"/>
+  &nbsp; TECH STACK
+</h2>
 
-<!-- FEATURED PROJECTS -->
-<h2>🚀 FEATURED PROJECTS</h2>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>❤️ Medicare</h4>
-      <p>AI-powered healthcare platform for disease detection, analysis & medical assistance.</p>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🚀 GravityOS</h4>
-      <p>AI-assisted space habitat & artificial gravity engineering platform with bio-astronautics validation.</p>
-      <code>Next.js</code> <code>Physics</code> <code>Three.js</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>👁️ Vision Guide</h4>
-      <p>AI-powered navigation assistant for visually impaired people.</p>
-      <code>Python</code> <code>OpenCV</code> <code>TTS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>⚙️ OxiTech</h4>
-      <p>IoT-based Emergency Ventilator & health monitoring solutions.</p>
-      <code>IoT</code> <code>Arduino</code> <code>Cloud</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ SafeRoute Guardian</h4>
-      <p>AI-based smart travel safety system for secure & informed route guidance.</p>
-      <code>ML</code> <code>Maps</code> <code>API</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌱 Plant Disease Detector</h4>
-      <p>Deep learning model for detecting plant diseases from leaf images.</p>
-      <code>Python</code> <code>CNN</code> <code>Flask</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔥 Calory Monitor</h4>
-      <p>Calories tracking & health monitoring web application.</p>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧠 EmotiScan</h4>
-      <p>AI-based emotion detection & mental health support app.</p>
-      <code>ML</code> <code>NLP</code> <code>Streamlit</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏥 Sanjeevani Shield</h4>
-      <p>Real-time health monitoring & emergency alert system.</p>
-      <code>IoT</code> <code>Firebase</code> <code>Cloud</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🫀 Heart Attack Monitoring</h4>
-      <p>ML model for heart attack risk prediction & real-time monitoring.</p>
-      <code>Python</code> <code>ML</code> <code>Streamlit</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏛️ Vedic Ashram</h4>
-      <p>Full stack web platform for managing ashram activities & community services.</p>
-      <code>MERN</code> <code>Tailwind</code> <code>JWT</code>
-    </td>
-    <td width="33%" valign="top">
-      <br />
-      <a href="https://shibagni.in"><b>View all projects → shibagni.in</b></a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- PUBLICATIONS, ACHIEVEMENTS & SKILLS GRID -->
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <h3>📚 RESEARCH PUBLICATIONS</h3>
-      <ul>
-        <li>📄 Overview of Robotic Surgery</li>
-        <li>📄 Artificial Intelligence in Cardiovascular Disease Treatment</li>
-        <li>📄 Real Time Gas Leakage Detection Using IoT (IEEE)</li>
-        <li>📄 AI-Augmented Brain-Machine Interface System for Seamless Communication</li>
-        <li>📄 AgroFog+: Integrated IoT and AI System for Smart Greenhouse Management</li>
-      </ul>
-      <a href="https://ieeexplore.ieee.org/document/10846388"><b>View all on IEEE Xplore / Google Scholar →</b></a>
-    </td>
-    <td width="35%" valign="top">
-      <h3>🏆 ACHIEVEMENTS</h3>
-      <ul>
-        <li>🏆 <b>6x Hackathon Winner</b></li>
-        <li>🎓 <b>Top 2% in CSE Department</b></li>
-        <li>📄 <b>Published Research Papers in IEEE</b></li>
-        <li>💼 <b>Research & Development Intern</b></li>
-        <li>🚀 <b>Google Solution Challenge Participant</b></li>
-        <li>🏆 <b>ACEHack 2024 - Finalist</b> (Top 20/125 Teams)</li>
-        <li>🌟 <b>Multiple Innovation & Startup Awards</b></li>
-      </ul>
-    </td>
-    <td width="30%" valign="top">
-      <h3>💻 SKILLS & TECHNOLOGIES</h3>
-      <p><b>Languages:</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" />
-      </p>
-      <p><b>Frontend & Backend:</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28" />
-      </p>
-      <p><b>Databases & Cloud:</b><br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- GITHUB ANALYTICS -->
-<h2>📊 GITHUB ANALYTICS</h2>
-
-<table width="100%">
-  <tr>
-    <td width="48%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shibagnibhattacharjee06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-    </td>
-    <td width="48%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibagnibhattacharjee06&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="48%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibagnibhattacharjee06&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-    <td width="48%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibagnibhattacharjee06&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- CONTRIBUTION SNAKE & TROPHIES -->
 <div align="center">
-  <h3>🐍 Contribution Snake Grid</h3>
-  <img src="https://ghchart.rshah.org/shibagnibhattacharjee06" alt="GitHub Contribution Grid" width="100%" />
-  <br /><br />
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=shibagnibhattacharjee06&theme=tokyonight&no-frame=true&column=6" width="100%" />
+
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,mysql&theme=dark" />
+
+**Core Computer Science**
+<br/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a1b26?style=for-the-badge&logo=leetcode&logoColor=e0af68&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/OOP-1a1b26?style=for-the-badge&logo=codeium&logoColor=bb9af7&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/DBMS-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Operating%20Systems-1a1b26?style=for-the-badge&logo=linux&logoColor=9ece6a&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Computer%20Networks-1a1b26?style=for-the-badge&logo=cisco&logoColor=f7768e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-1a1b26?style=for-the-badge&logo=apachekafka&logoColor=ff9e64&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Software%20Engineering-1a1b26?style=for-the-badge&logo=git&logoColor=c0caf5&labelColor=1a1b26" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=9ece6a&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=jsonwebtokens&logoColor=f7768e&labelColor=1a1b26" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,githubactions,vercel,render&theme=dark" />
+<img src="https://img.shields.io/badge/CI%2FCD-1a1b26?style=for-the-badge&logo=githubactions&logoColor=bb9af7&labelColor=1a1b26" />
+
+**Developer Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase&theme=dark" />
+
 </div>
 
-<br />
-<hr />
+<br/>
 
-<!-- FOOTER -->
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="26"/>
+  &nbsp; GITHUB ANALYTICS
+</h2>
+
 <div align="center">
-  <p>👀 Thanks for visiting! • Made with ❤️ by <b>Shibagni Bhattacharjee</b> • <i>Let's connect and build the future together!</i></p>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShibagniBhattacharjee06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5&ring_color=f7768e"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibagniBhattacharjee06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ShibagniBhattacharjee06&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShibagniBhattacharjee06&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7dcfff&line=bb9af7&point=f7768e&area=true&area_color=7dcfff" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================
+     CONTRIBUTION SNAKE
+     Requires a one-time GitHub Actions setup (see notes below
+     the README for the exact workflow file to add).
+     ============================================================ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ShibagniBhattacharjee06/ShibagniBhattacharjee06/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake"/>
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=trophy" width="26"/>
+  &nbsp; GITHUB TROPHIES
+</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShibagniBhattacharjee06&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="26"/>
+  &nbsp; FEATURED PROJECTS
+</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🩺 MEDICARE</h3>
+
+AI-powered healthcare platform built around five integrated modules: TB detection (DenseNet-121), fracture analysis (MobileNetV2), brain tumor detection (EfficientNet), an LLM-driven AI Doctor Assistant (LLaMA 4 Scout + Whisper + gTTS), and an ASHA worker management system (MERN stack).
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
+<img src="https://img.shields.io/badge/MERN-1a1b26?style=flat-square&logo=react&logoColor=bb9af7" />
+<img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7aa2f7" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Medicare"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌌 GravityOS</h3>
+
+Systems-level project exploring simulation and OS-inspired design fundamentals - built to dig deeper into core operating systems and low-level programming concepts.
+
+<img src="https://img.shields.io/badge/C%2B%2B-1a1b26?style=flat-square&logo=cplusplus&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Systems%20Design-1a1b26?style=flat-square&logo=linux&logoColor=9ece6a" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/GravityOS"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🦯 Vision Guide</h3>
+
+Assistive computer-vision system designed to help visually impaired users navigate their surroundings safely through real-time object and obstacle detection.
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/OpenCV-1a1b26?style=flat-square&logo=opencv&logoColor=f7768e" />
+<img src="https://img.shields.io/badge/Deep%20Learning-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Vision-Guide"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🫁 OxiTech</h3>
+
+Health-tech application focused on vitals and oxygen-level monitoring, combining sensor data with an AI-assisted analysis layer for early anomaly detection.
+
+<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/IoT-1a1b26?style=flat-square&logo=arduino&logoColor=bb9af7" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/OxiTech"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ SafeRoute Guardian</h3>
+
+Real-time safe-route recommendation app that layers geolocation and safety signals to help users choose the safest path to their destination.
+
+<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Maps%20API-1a1b26?style=flat-square&logo=googlemaps&logoColor=f7768e" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/SafeRoute-Guardian"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌿 Plant Disease Detector</h3>
+
+Deep-learning image classifier that identifies crop and plant diseases from leaf photographs to support early diagnosis and treatment for farmers.
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/CNN-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
+<img src="https://img.shields.io/badge/Computer%20Vision-1a1b26?style=flat-square&logo=opencv&logoColor=9ece6a" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Plant-Disease-Detector"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🍎 Calory Monitor</h3>
+
+Nutrition and calorie-tracking application that logs meals and delivers personalized diet insights based on a user's daily intake patterns.
+
+<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=bb9af7" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Calory-Monitor"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🙂 EmotiScan</h3>
+
+Facial emotion-recognition system that uses computer vision and deep learning to classify emotional states from live or static image input in real time.
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/OpenCV-1a1b26?style=flat-square&logo=opencv&logoColor=f7768e" />
+<img src="https://img.shields.io/badge/Deep%20Learning-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/EmotiScan"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Sanjeevani Shield</h3>
+
+Preventive health and safety monitoring platform designed to flag risk indicators early and connect users with the right support in time.
+
+<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=bb9af7" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Sanjeevani-Shield"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>❤️ Heart Attack Monitoring & Prediction System</h3>
+
+Machine-learning based system that analyzes cardiac and vital-sign data to assess risk and predict the likelihood of a heart attack, enabling earlier intervention.
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Machine%20Learning-1a1b26?style=flat-square&logo=scikitlearn&logoColor=ff9e64" />
+<img src="https://img.shields.io/badge/Flask-1a1b26?style=flat-square&logo=flask&logoColor=c0caf5" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Heart-Attack-Monitoring-Prediction-System"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🕉️ Vedic Ashram</h3>
+
+Digital platform built to preserve and present Vedic knowledge and resources in an accessible, well-organized format for modern learners.
+
+<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=bb9af7" />
+
+<a href="https://github.com/ShibagniBhattacharjee06/Vedic-Ashram"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>💡 Repo links above use a predictable naming pattern - swap in your actual repository URLs if any differ.</sub>
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=latex" width="26"/>
+  &nbsp; RESEARCH PUBLICATIONS
+</h2>
+
+<table width="100%">
+<tr><td>
+
+**📄 Overview of Robotic Surgery**
+<br/><sub>Survey of robotic-assisted surgical systems, precision techniques, and clinical outcomes.</sub>
+
+</td></tr>
+<tr><td>
+
+**📄 Artificial Intelligence in Cardiovascular Disease Treatment**
+<br/><sub>Examines AI-driven approaches to diagnosing and treating cardiovascular conditions.</sub>
+
+</td></tr>
+<tr><td>
+
+**📄 IoT Based Gas Leakage Detector**
+<br/><sub>Sensor-driven IoT system for real-time detection and alerting of hazardous gas leaks.</sub>
+
+</td></tr>
+<tr><td>
+
+**📄 AI-Augmented Brain-Machine Interface System for Seamless Communication Assistance in Motor Impairment**
+<br/><sub>BMI system leveraging AI to assist communication for individuals with motor impairment.</sub>
+
+</td></tr>
+<tr><td>
+
+**📄 AgroFog+: Integrated IoT and AI System for Smart Greenhouse Management**
+<br/><sub>Combines IoT sensing and AI-driven decisioning for automated, smart greenhouse management.</sub>
+
+</td></tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/PUBLISHED-IEEE%20%2F%20SPRINGER-7aa2f7?style=for-the-badge&labelColor=1a1b26&color=1a1b26&logo=ieee&logoColor=7aa2f7" />
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=discord" width="26"/>
+  &nbsp; ACHIEVEMENTS
+</h2>
+
+<div align="center">
+
+| Category | Highlight |
+|---|---|
+| 🏆 Hackathons | Winner across **6 international hackathons**, including **Stanford-Microsoft** and **Harvard** competitions |
+| 🎓 Academics | **Top 2%** of the Computer Science Engineering department |
+| 📚 Research | Co-author on multiple **IEEE / Springer** publications |
+| 💼 Internships | **ICFAI University** (R&D) · **Infosys Springboard** (AI/ML) · **IBM SkillBuild** (Full Stack) |
+| 🚀 Shipping | 11+ featured full-stack and AI/ML projects, from research to deployed product |
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=discord" width="26"/>
+  &nbsp; LET'S CONNECT
+</h2>
+
+<div align="center">
+
+<a href="https://shibagni.in"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=bb9af7&labelColor=1a1b26" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26" /></a>
+
+<sub>👆 Replace the LinkedIn and Email links above with your own URLs</sub>
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header)
+
+<div align="center">
+
+### "Code is the closest thing we have to magic - so build like it matters."
+
+<img src="https://komarev.com/ghpvc/?username=ShibagniBhattacharjee06&color=bb9af7&style=flat-square&label=PROFILE+VIEWS" />
+
+<sub>Designed with a Tokyo Night cyberpunk palette · © Shibagni Bhattacharjee</sub>
+
 </div>
