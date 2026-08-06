@@ -161,9 +161,8 @@ Final-year Computer Science Engineering student who builds complete, production-
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShibagniBhattacharjee06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5&ring_color=f7768e"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShibagniBhattacharjee06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&langs_count=8"/>
-
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=ShibagniBhattacharjee06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5&ring_color=f7768e"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShibagniBhattacharjee06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&langs_count=8"/>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ShibagniBhattacharjee06&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff"/>
