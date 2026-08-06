@@ -10,7 +10,7 @@
 
 - I have published research paper in IEEE [Real Time Gas Leak Detection with IoT: A Gateway to Safer and Smarter Homes](https://ieeexplore.ieee.org/document/10846388)
 
-- 👨💻 All of my projects are available at [https://shibagnibhattacharjee06.github.io/my/](https://shibagnibhattacharjee06.github.io/my/)
+- 👨‍💻 All of my projects are available at [https://shibagnibhattacharjee06.github.io/my/](https://shibagnibhattacharjee06.github.io/my/)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Node**
 
