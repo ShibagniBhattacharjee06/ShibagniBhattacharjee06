@@ -415,10 +415,9 @@ Digital platform built to preserve and present Vedic knowledge and resources in 
 
 <a href="https://shibagni.in"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=bb9af7&labelColor=1a1b26" /></a>
 <a href="https://github.com/ShibagniBhattacharjee06"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26" /></a>
+<a href="https://www.linkedin.com/in/shibagni-bhattacharjee-07a944283/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" /></a>
+<a href="mailto:bhattacharheeshibagni85@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26" /></a>
 
-<sub>👆 Replace the LinkedIn and Email links above with your own URLs</sub>
 
 </div>
 
@@ -432,6 +431,6 @@ Digital platform built to preserve and present Vedic knowledge and resources in 
 
 <img src="https://komarev.com/ghpvc/?username=ShibagniBhattacharjee06&color=bb9af7&style=flat-square&label=PROFILE+VIEWS" />
 
-<sub>Designed with a Tokyo Night cyberpunk palette · © Shibagni Bhattacharjee</sub>
+<sub> © Shibagni Bhattacharjee</sub>
 
 </div>
