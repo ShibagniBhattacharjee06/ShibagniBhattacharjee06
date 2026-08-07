@@ -242,7 +242,7 @@ Assistive computer-vision system designed to help visually impaired users naviga
 <img src="https://img.shields.io/badge/OpenCV-1a1b26?style=flat-square&logo=opencv&logoColor=f7768e" />
 <img src="https://img.shields.io/badge/Deep%20Learning-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/Vision-Guide"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/VisionGuide"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>🫁 OxiTech</h3>
@@ -267,7 +267,7 @@ Real-time safe-route recommendation app that layers geolocation and safety signa
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
 <img src="https://img.shields.io/badge/Maps%20API-1a1b26?style=flat-square&logo=googlemaps&logoColor=f7768e" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/SafeRoute-Guardian"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/SafeRouteGuardian"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>🌿 Plant Disease Detector</h3>
@@ -278,7 +278,7 @@ Deep-learning image classifier that identifies crop and plant diseases from leaf
 <img src="https://img.shields.io/badge/CNN-1a1b26?style=flat-square&logo=tensorflow&logoColor=ff9e64" />
 <img src="https://img.shields.io/badge/Computer%20Vision-1a1b26?style=flat-square&logo=opencv&logoColor=9ece6a" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/Plant-Disease-Detector"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/Plant-stress-app"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 </tr>
 
@@ -292,7 +292,7 @@ Nutrition and calorie-tracking application that logs meals and delivers personal
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=bb9af7" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/Calory-Monitor"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/fitfood"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>🙂 EmotiScan</h3>
