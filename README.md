@@ -267,7 +267,7 @@ Real-time safe-route recommendation app that layers geolocation and safety signa
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
 <img src="https://img.shields.io/badge/Maps%20API-1a1b26?style=flat-square&logo=googlemaps&logoColor=f7768e" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/SafeRouteGuardian"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/SafeRouteGuardian-"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>🌿 Plant Disease Detector</h3>
