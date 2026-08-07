@@ -319,18 +319,7 @@ Preventive health and safety monitoring platform designed to flag risk indicator
 
 <a href="https://github.com/ShibagniBhattacharjee06/Sanjeevani-Shield"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>❤️ Heart Attack Monitoring & Prediction System</h3>
 
-Machine-learning based system that analyzes cardiac and vital-sign data to assess risk and predict the likelihood of a heart attack, enabling earlier intervention.
-
-<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
-<img src="https://img.shields.io/badge/Machine%20Learning-1a1b26?style=flat-square&logo=scikitlearn&logoColor=ff9e64" />
-<img src="https://img.shields.io/badge/Flask-1a1b26?style=flat-square&logo=flask&logoColor=c0caf5" />
-
-<a href="https://github.com/ShibagniBhattacharjee06/Heart-Attack-Monitoring-Prediction-System"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top">
