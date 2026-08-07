@@ -319,8 +319,6 @@ Preventive health and safety monitoring platform designed to flag risk indicator
 
 <a href="https://github.com/ShibagniBhattacharjee06/Sanjeevani-Shield"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>🕉️ Vedic Ashram</h3>
 
@@ -330,9 +328,10 @@ Digital platform built to preserve and present Vedic knowledge and resources in 
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" />
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=bb9af7" />
 
-<a href="https://github.com/ShibagniBhattacharjee06/Vedic-Ashram"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+<a href="https://github.com/ShibagniBhattacharjee06/Sanjeevani-Shield"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
 <td width="50%" valign="top">
+<h3>🕉️ Vedic Ashram</h3>
 
 </td>
 </tr>
