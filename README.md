@@ -319,8 +319,7 @@ Preventive health and safety monitoring platform designed to flag risk indicator
 
 <a href="https://github.com/ShibagniBhattacharjee06/Sanjeevani-Shield"><img src="https://img.shields.io/badge/View%20Repo-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
 </td>
-
-
+</tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🕉️ Vedic Ashram</h3>
