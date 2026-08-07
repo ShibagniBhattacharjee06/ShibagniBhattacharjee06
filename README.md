@@ -333,9 +333,7 @@ Digital platform built to preserve and present Vedic knowledge and resources in 
 </tr>
 </table>
 
-<div align="center">
-<sub>💡 Repo links above use a predictable naming pattern - swap in your actual repository URLs if any differ.</sub>
-</div>
+
 
 <br/>
 
