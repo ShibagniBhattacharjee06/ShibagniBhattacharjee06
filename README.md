@@ -12,8 +12,9 @@
 <br/>
 
 <!-- ANIMATED TYPING HEADER -->
+
 <a href="https://shibagni.in">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=780&height=70&lines=Hi%2C+I'm+Shibagni+Bhattacharjee;Software+Engineer+%7C+AI+%2B+Full-Stack+Builder;Final-Year+CSE+Student;6x+International+Hackathon+Winner;Building+at+the+intersection+of+AI+%26+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=780&height=70&lines=Hi%2C+I'm+Shibagni+Bhattacharjee;Software+Engineer+%7C+SDE;AI%2FML+%2B+Full-Stack+Builder;IoT+%2B+Embedded+Systems+Enthusiast;Final-Year+CSE+Student+%7C+Top+2%25+of+Department;6x+International+Hackathon+Winner;Building+at+the+intersection+of+AI+%26+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
