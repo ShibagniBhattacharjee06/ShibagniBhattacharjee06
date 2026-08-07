@@ -194,7 +194,7 @@ Final-year Computer Science Engineering student who builds complete, production-
 </h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShibagniBhattacharjee06&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+<img src="https://trophy.benkou.dev/?username=ShibagniBhattacharjee06&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
